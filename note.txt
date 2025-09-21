@@ -1,0 +1,20 @@
+fullstack 
+    Auth
+        Clerk
+    Business Logic
+        store info  
+            schema 
+                /doc
+                    projects
+                        res.pdf
+    Storage
+        Imagekit
+    
+backend
+    ORM ->  postgres
+    
+      
+
+schema.ts
+ORM -> helps in query and manipulate data form a DB using 
+object oriented paradigram
